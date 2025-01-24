@@ -6,5 +6,5 @@ jobs:
     steps: 
       - name: Checkout Repo
         uses: actions/checkout@v3
-      - name: run Feed Generator
+      - name: Run Feed Generator
         uses: ngbcoder94/GitLearning-Generator@main
